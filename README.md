@@ -6,7 +6,7 @@ Project 3
 
 Contributors: Elijah Cannon, Kevin Ng, Andres Portes, Cody Westbrook
 
-Using the 2018 Squirrel Census, we want to map Central Park and help people find where they could have the most success squirrel watching. The census was performed using a grid system, which we can rebuild in Choropleth. When the user selects the hectare, a 1002 acre plot of land, individual pins will show up for each squirrel seen in the census in that hectare. Users could click on an individual pin to see physical descriptions of each squirrel and try to find ones that still live in the area.
+Using the 2018 Squirrel Census, we want to map Central Park and help people find where they could have the most success squirrel watching. The census was performed using a grid system, which we can rebuild in Choropleth. When the user selects the hectare, a 100^2 acre plot of land, individual pins will show up for each squirrel seen in the census in that hectare. Users could click on an individual pin to see physical descriptions of each squirrel and try to find ones that still live in the area.
 
 When a hectare is chosen, we are thinking of including graphs of overall statistics of squirrels in that area to pair with the descriptions of individual squirrels.
 
